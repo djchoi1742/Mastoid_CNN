@@ -1,3 +1,5 @@
 # Mastoid
  - Convolutional neural networks for diagnosing mastoiditis
- - Deep learning algorithm for Mastoid series AP view and Lateral Rt/Lt view
+   - 1. CNN for Mastoid AP view
+   - 2. CNN for Mastoid Lateral view
+   - 3. CNN for Mastoid AP & Lateral view
