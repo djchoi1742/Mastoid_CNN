@@ -1,4 +1,4 @@
-# Multi-modal deep learning algorithm to detect mastoiditis on mastoid series
+# Convolutional neural networks to detect mastoiditis on mastoid series
  - Convolutional neural networks for diagnosing mastoiditis
    1. data/setup.py   (Upload Mastoid AP & Lateral view, label)
    2. models/network.py   (CNN for AP view, Lateral view, Multiple views)
